@@ -1,5 +1,5 @@
 "use client";
-
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
 import { motion } from "framer-motion";
 import { Award } from "lucide-react";
 
@@ -8,8 +8,7 @@ const certifications = [
         name: "Certified Ethical Hacker",
         issuer: "EC Council",
         year: "2023",
-        logo: "/myCyberPortfolio/public/eccouncil_logo.png"
-    },
+    logo: `${BASE_PATH}/eccouncil_logo.png`,    },
 ];
 
 export default function Certifications() {
