@@ -8,7 +8,7 @@ const certifications = [
         name: "Certified Ethical Hacker",
         issuer: "EC Council",
         year: "2023",
-        logo: "/eccouncil_logo.png"
+        logo: "/myCyberPortfolio/public/eccouncil_logo.png"
     },
 ];
 
