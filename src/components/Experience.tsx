@@ -9,7 +9,7 @@ const experiences = [
         role: "Lab Assistant",
         period: "2025 – Present",
         location: "Dublin, Ireland",
-        logo: "/Nci.png",
+        logo: "/myCyberPortfolio/public/Nci.png",
         description: [
             "Assisted students during labs, tutorials, and lectures by answering questions related to course content.",
             "Supported lecturers in managing undergraduate-level classes and practical sessions.",
@@ -21,7 +21,7 @@ const experiences = [
         role: "Mentor",
         period: "2023 – 2024",
         location: "India",
-        logo: "/hash.png",
+        logo: "/myCyberPortfolio/public/hash.png",
         description: [
             "Mentored students in programming fundamentals and web development concepts.",
             "Guided learners through hands-on coding sessions and real-world problem solving.",
