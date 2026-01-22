@@ -60,7 +60,7 @@ I learned how systems are built before learning how they break — now I focus o
     "
 >
     <Image
-        src="/sylesh-portfolio/profile.png"
+        src="/myCyberPortfolio/profile.png"
         alt="Sylesh Sathish Kumar - Cyber Security Student"
         fill
         className="object-contain p-4"
